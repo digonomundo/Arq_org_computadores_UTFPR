@@ -1,4 +1,4 @@
-# Repositório de Atividades da Disciplina de Algoritmos
+# Repositório de Atividades da Disciplina
 
 Este repositório foi criado para armazenar os códigos desenvolvidos durante as atividades da disciplina de **Arquitetura e Organização de Computadores**, ministrada pelo **Prof. Dr. João Fabrício Filho** na **UTFPR**. Aqui estarão armazenados exercícios e materiais relacionados aos conceitos fundamentais de programação.
 
