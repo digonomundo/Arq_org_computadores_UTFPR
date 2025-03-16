@@ -13,7 +13,7 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante as
 ## Desempenho
 
 ### Slides
-- Acesse os [slides](/Desempenho/slides/) da aula.
+- Acesse os [slides](/Desempenho/Slides/) da aula.
 
 ### Vídeos Recomendados
 - [Processo de fabricação de um chip: da areia ao silício (Intel)](https://www.youtube.com/watch?v=Q5paWn7bFg4)
@@ -24,7 +24,7 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante as
 - [A New Golden Age for Computer Architecture](https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf)
 
 ### Exercícios
-- Acesse os [exercícios](/desempenho/exercícios/) para fixação dos conceitos.
+- Acesse os [exercícios](/Desempenho/Exercícios/) para fixação dos conceitos.
 
 ---
 
@@ -43,7 +43,7 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante as
 - **Simulador para Execução de Código Assembly**: [JsSpim](https://shawnzhong.github.io/JsSpim/)
 
 ### Exercícios
-- Acesse os [exercícios](/assembly/exercícios/) para fixação dos conceitos.
+- Acesse os [exercícios](/assembly/exercicios/) para fixação dos conceitos.
 
 ---
 
@@ -56,22 +56,22 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante as
 - [Como funciona o processador?](https://youtu.be/0TV0uB0gQwQ)
 
 ### Exercícios
-- Acesse os [exercícios](/processador/exercícios/) para fixação dos conceitos.
+- Acesse os [exercícios](/processador/Exercícios/) para fixação dos conceitos.
 
 ---
 
 ## Projeto Prático: Construção de um Caminho de Dados
 
-- [Modelo de Entrega do Relatório](https://christoferlv.github.io/ProjetoAperture/)
+- [Modelo de Entrega do Relatório](/Trabalhos/Modelo%20de%20entrega%20do%20relatório.odt)
 
 ### Material de Apoio
 - [Projeto Aperture - Material de Apoio para Construção de Datapath MIPS](https://christoferlv.github.io/ProjetoAperture/)
-- [Diagrama do Datapath (Incompleto)]()
+- [Diagrama do Datapath (Incompleto)](/Trabalhos/datapath.drawio.png)
 
 ### Tarefas para Facilitar a Execução
-- [Tarefa 1 - Especificação ULA e Banco de Registradores](Trabalhos/Tarefa1)
-- [Tarefa 2 - Especificação Decodificador e Controle](Trabalhos/Tarefa2)
-- [Tarefa 3 - Especificação Datapath e Execução](Trabalhos/Tarefa3)
+- [Tarefa 1 - Especificação ULA e Banco de Registradores](/Trabalhos/Tarefa_1_Especificação%20ULA%20e%20banco%20de%20registradores.pdf)
+- [Tarefa 2 - Especificação Decodificador e Controle](/Trabalhos/Tarefa_2_Especificação%20Decodificador%20e%20controle.pdf)
+- [Tarefa 3 - Especificação Datapath e Execução](/Trabalhos/Tarefa_3_Especificação%20Datapath%20e%20Execução.pdf)
 
 ---
 
