@@ -50,13 +50,13 @@ Este repositório foi criado para armazenar os códigos desenvolvidos durante as
 ## Processador
 
 ### Materiais
-- Acesse os [slides](/Processador/slides/) da aula.
+- Acesse os [slides](/Processador/Slides/) da aula.
 
 ### Vídeo Recomendado
 - [Como funciona o processador?](https://youtu.be/0TV0uB0gQwQ)
 
 ### Exercícios
-- Acesse os [exercícios](/processador/Exercícios/) para fixação dos conceitos.
+- Acesse os [exercícios](/Processador/Exercícios/) para fixação dos conceitos.
 
 ---
 
